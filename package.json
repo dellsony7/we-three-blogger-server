@@ -1,0 +1,19 @@
+{
+  "name": "dellsony-blog-backend",
+  "version": "1.0.0",
+  "description": "This is the API for the backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "mongoose"
+  ],
+  "author": "Dellsony",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3"
+  }
+}
